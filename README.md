@@ -16,7 +16,3 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEZ%20IDE&logoColor=white"></a>
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor)
-
-<br>
-  
-### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBSun&show_icons=true&theme=default)
